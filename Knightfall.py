@@ -504,7 +504,7 @@ with st.sidebar:
                 
                 - Deine Figur **♘** kann sich gemäß zulässigen Springerzügen bewegen.
                 - Gib dazu die **Koordinaten** in das Feld ein und **bestätige den Zug**.
-                - Alle Schätze gefunden? Schnell! Zurück zum Ausgangstor **∩**!
+                - Alle Schätze gefunden? Schnell! Zurück zum Ausgang **⌂**!
                 
                 **Farben**:
                 - Besuchst du ein Feld, leuchtet es in einer Farbe:
