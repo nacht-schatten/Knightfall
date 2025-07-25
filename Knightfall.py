@@ -2,6 +2,15 @@ import streamlit as st
 import random
 
 
+st.set_page_config(
+    page_title="Knightfall",
+    page_icon="♘",
+    layout="centered",
+    initial_sidebar_state="expanded"
+)
+
+
+
 # 🔧 Konstanten
 BOARD_SIZE = 8
 hell_colors = {
