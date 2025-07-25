@@ -238,7 +238,7 @@ def zeige_spielfeld():
                 symbol = punkt_symbol
             if pos == st.session_state.start_pos:
                 border_style = "2px solid black"
-                symbol = "∩" if symbol == "" else symbol
+                symbol = "⌂" if symbol == "" else symbol
             if pos == st.session_state.knight_pos and st.session_state.unverwundbar_züge > 1:
                 shadow = "inset 0 0 6px black"
                 symbol = "♞"
